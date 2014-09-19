@@ -11,7 +11,9 @@ The script run_analysis.r does the following:
 * Creates a second data set with the average of each variable for each activity and each subject.
 
 To run this script, make sure that the folder "UCI HAR Dataset" with all the Samsung data is in your working directory.
+
 source(run_analysis.r)
+
 The file "tidy_data_set.txt" will be created in your working directory.
 
 For more information about the features in "tidy_data_set.txt", see CodeBook.md.
